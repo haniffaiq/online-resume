@@ -39,4 +39,4 @@ const Profile = () => {
     );
 };
 
-export default Profile; <p>Hanif</p>
+export default Profile; 
