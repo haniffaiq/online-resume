@@ -6,7 +6,7 @@ const Profile = () => {
             <div className='parent'>
                 <div className='profile'>
                     <div className='profile-name'>
-                        Hello, I'm <span className='text-highlight'>Hanif Faiq</span>
+                        Hello, I'm <span className='text-highlight'>Hanif Faiq NIH BOS SENGGOL DONG</span>
                     </div>
                     <div className='profile-role'>
 
